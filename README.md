@@ -1,2 +1,4 @@
-# elice_openCV
-엘리스 AI 트랙 3기에서 실시한 openCV 실습 내용입니다.
+# Computer Vision Study
+Computer Vision 관련 공부를 기록하는 repository입니다.
+- OpenCV 기초
+- Object Detection Model : YOLO
